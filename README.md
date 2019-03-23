@@ -1,6 +1,5 @@
 # machine-learning-side-projects
-Machine learning side projects
-This folder include my side projects that I did during the Coursera machine learning course
+This folder include my side projects that I did during the Coursera machine learning course.
 
 1. Linear Regression: predict housing prices in Portland, Oregon using gradient descent algorithm with feature normalization.
 2. Logistic Regression: implement regularized logistic regression to predict whether microchips from a fabrication plant passes quality assurance. Apply feature mapping to generate polynomial terms in order to obtain an accurate non-linear boundary.
